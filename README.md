@@ -1,4 +1,6 @@
 <div align="center" display="inline-block">
+
+# ⚠ INCOMPLETO ⚠
   
 ## Desenvolvendo uma Calculadora!
 
