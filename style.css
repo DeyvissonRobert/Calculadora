@@ -1,10 +1,10 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
 body {
-    background-image: linear-gradient(45deg, black, crimson );
+    background-image: linear-gradient(45deg, black, crimson);
     height: 100vh;
     color: #fff;
     font-family: 'Times New Roman', Times, serif;
@@ -15,7 +15,7 @@ main {
     background-color: rgba(0, 0, 0, 0.8);
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
     border-radius: 15px;
     padding: 15px;
     text-align: center;
